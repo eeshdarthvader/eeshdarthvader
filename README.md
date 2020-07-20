@@ -24,4 +24,9 @@ Hi, I'm Eesh Tyagi, a Full stack web developer in Munich.
 [![Eesh's github stats](https://github-readme-stats.vercel.app/api?username=eeshdarthvader&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+
+```html
+<!DOCTYPE html>
 https://medium-posts-api.vercel.app/api/medium/posts
+```
