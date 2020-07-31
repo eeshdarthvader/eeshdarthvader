@@ -11,7 +11,7 @@
 
 Hi, I'm Eesh Tyagi, a Full stack web developer in Munich.
 
-- 🔭 I’m currently working in [Scalable Capital](https://dev-de.scalable.capital/en)
+- 🔭 I’m currently working in [Scalable Capital](https://de.scalable.capital/)
 
 **Languages and Tools:**  
 
@@ -23,18 +23,3 @@ Hi, I'm Eesh Tyagi, a Full stack web developer in Munich.
 
 [![Eesh's github stats](https://github-readme-stats.vercel.app/api?username=eeshdarthvader&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-```html
-<pre>
-    <div class="container">
-        <div class="block two first">
-            <h2>Your title</h2>
-            <div class="wrap">
-            //Your content
-            </div>
-        </div>
-    </div>
-</pre>
-```
